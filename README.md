@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in HTML/JavaScript:  a hidden element that is never re-displayed.  The bug.html file showcases the problem, while solution.html provides the fix. The issue arises from a lack of code to re-show the hidden div after the initial hiding.
